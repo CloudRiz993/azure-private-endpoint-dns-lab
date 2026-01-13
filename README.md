@@ -34,4 +34,4 @@ Key proof points:
 - Validation: `docs/validation.md`
 - Troubleshooting Runbook: `runbooks/troubleshooting.md`
 - Teardown: `teardown/teardown.md`
-# azure-private-endpoint-dns-lab
+
